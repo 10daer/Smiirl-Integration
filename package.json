@@ -1,0 +1,16 @@
+{
+  "name": "smiirl-counter-integration",
+  "version": "1.0.0",
+  "description": "A Node.js server to fetch follower counts from YouTube and Instagram and provide them to a Smiirl counter.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "axios": "^0.21.1",
+    "dotenv": "^8.2.0"
+  },
+  "author": "Your Name",
+  "license": "ISC"
+}
